@@ -65,7 +65,7 @@ const NavMenu = styled.div`
             text-decoration:none;
             color:white;
             cursor:pointer;
-
+            overflow-X:hidden;
             img{
                 height:20px;
             }
